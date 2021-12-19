@@ -1,9 +1,9 @@
 # Introduction 
 A API built with Javascript and MongoDb/Mongoose. Deployed using docker CI/CD pipeline to Azure webservices.
-The API can be reached on: https://acosadorwebapi.azurewebsites.net/
+The API can be reached on: ***
 
 # Getting Started
-1. Its deployed on https://acosadorwebapi.azurewebsites.net/
+1. Its deployed on ***
 
 If link isnt working we probably stopped paying for it.
 To get it working:
